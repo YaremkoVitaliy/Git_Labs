@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-12-28T11:52:10.607Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36 OPR/73.0.3856.284" etag="rs_8nnU37WVBBpTHTua4" version="14.1.2" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2020-12-28T11:56:59.334Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36 OPR/73.0.3856.284" etag="wDmnJzBv5xp4P3SGG5kU" version="14.1.2" type="github" pages="4">
   <diagram id="TSJOTE-9jYVLGcTTON4N" name="Lab_3">
     <mxGraphModel dx="828" dy="490" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -987,7 +987,7 @@
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="160" y="980" />
-              <mxPoint x="350" y="980" />
+              <mxPoint x="340" y="980" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -997,14 +997,14 @@
         <mxCell id="AuwxQw18ETxkoB2WjOOY-1" value="складання диференціального рівняння&lt;br&gt;із врахуванням руху лопатей" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="xQubnvic0sk3EgOJCfOb-1" source="UXlwmBOvkksV9pZmIlUR-1" target="4gXHgVJCvyN6pxcAtlN9-0">
           <mxGeometry x="-0.218" relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="360" y="800" />
+              <mxPoint x="370" y="800" />
               <mxPoint x="535" y="800" />
             </Array>
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="UXlwmBOvkksV9pZmIlUR-1" value="&lt;span style=&quot;font-family: &amp;#34;verdana&amp;#34;&quot;&gt;Враховування руху лопатей при вимірі динаміки руху башти&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="xQubnvic0sk3EgOJCfOb-1">
-          <mxGeometry x="300" y="840" width="120" height="60" as="geometry" />
+        <mxCell id="UXlwmBOvkksV9pZmIlUR-1" value="&lt;span style=&quot;font-family: &amp;#34;verdana&amp;#34;&quot;&gt;Враховування руху лопатей при розрахунку динаміки&amp;nbsp; башти&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="xQubnvic0sk3EgOJCfOb-1">
+          <mxGeometry x="300" y="840" width="140" height="60" as="geometry" />
         </mxCell>
         <mxCell id="AuwxQw18ETxkoB2WjOOY-0" value="складання диференціального рівняння&lt;br&gt;без врахування руху лопатей" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="xQubnvic0sk3EgOJCfOb-1" source="DRtpwAwUWfjdD8pWg7Od-0" target="4gXHgVJCvyN6pxcAtlN9-0">
           <mxGeometry x="0.0233" relative="1" as="geometry">
@@ -1014,8 +1014,8 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="DRtpwAwUWfjdD8pWg7Od-0" value="&lt;span style=&quot;font-family: &amp;#34;verdana&amp;#34;&quot;&gt;Ігнорування руху лопатей при вимірі динаміки руху башти&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="xQubnvic0sk3EgOJCfOb-1">
-          <mxGeometry x="290" y="1020" width="120" height="60" as="geometry" />
+        <mxCell id="DRtpwAwUWfjdD8pWg7Od-0" value="&lt;span style=&quot;font-family: &amp;#34;verdana&amp;#34;&quot;&gt;Ігнорування руху лопатей при розрахунку динаміки&amp;nbsp; башти&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="xQubnvic0sk3EgOJCfOb-1">
+          <mxGeometry x="270" y="1020" width="140" height="60" as="geometry" />
         </mxCell>
         <mxCell id="AuwxQw18ETxkoB2WjOOY-3" value="диференціальне рівняння" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="xQubnvic0sk3EgOJCfOb-1" source="4gXHgVJCvyN6pxcAtlN9-0" target="AuwxQw18ETxkoB2WjOOY-2">
           <mxGeometry relative="1" as="geometry" />
@@ -1026,8 +1026,8 @@
         <mxCell id="AuwxQw18ETxkoB2WjOOY-8" value="результати розрахунків" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="xQubnvic0sk3EgOJCfOb-1" source="AuwxQw18ETxkoB2WjOOY-2" target="AuwxQw18ETxkoB2WjOOY-7">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="685" y="740" />
-              <mxPoint x="360" y="740" />
+              <mxPoint x="685" y="730" />
+              <mxPoint x="360" y="730" />
             </Array>
           </mxGeometry>
         </mxCell>
